@@ -1,0 +1,5 @@
+package com.spring.jpadbauthentication.models;
+
+public class User {
+
+}

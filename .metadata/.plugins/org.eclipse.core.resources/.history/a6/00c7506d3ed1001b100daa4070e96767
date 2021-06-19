@@ -1,0 +1,12 @@
+package com.spring.jpadbauthentication.models;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "User")
+public class User {
+
+	@Id
+	private int id;
+}

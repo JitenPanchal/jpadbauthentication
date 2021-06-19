@@ -1,0 +1,6 @@
+package com.spring.dbauthentication;
+
+@RestController
+public class HomeResource {
+
+}

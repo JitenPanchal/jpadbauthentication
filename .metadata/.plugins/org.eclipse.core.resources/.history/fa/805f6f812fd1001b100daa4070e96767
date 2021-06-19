@@ -1,0 +1,5 @@
+package com.spring.dbauthentication;
+
+public class HomeResource {
+
+}

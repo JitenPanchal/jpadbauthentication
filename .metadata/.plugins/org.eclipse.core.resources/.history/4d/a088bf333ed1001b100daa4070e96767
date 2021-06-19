@@ -1,0 +1,7 @@
+package com.spring.jpadbauthentication.models;
+
+
+@Entity
+public class User {
+
+}
